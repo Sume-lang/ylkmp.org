@@ -1,3 +1,4 @@
+import "./nav-bod-foo.css";
 function Navigations() {
   return (
     <>

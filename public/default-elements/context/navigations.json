@@ -1,0 +1,172 @@
+{
+  "navigations": [
+    {
+      "title": "About Us",
+      "url": "",
+      "dropdown": [
+        {
+          "subtitledropdown": "Our Profiles",
+          "urlsubtitle": ""
+        },
+        {
+          "subtitledropdown": "Our Mision and Vision",
+          "urlsubtitle": ""
+        },
+        {
+          "subtitledropdown": "Principle",
+          "urlsubtitle": ""
+        },
+        {
+          "subtitledropdown": "The Team Members",
+          "urlsubtitle": ""
+        }
+      ]
+    },
+    {
+      "title": "Programe",
+      "url": "",
+      "dropdown": [
+        {
+          "subtitledropdown": "Foot Security",
+          "urlsubtitle": ""
+        },
+        {
+          "subtitledropdown": "Rural Community",
+          "urlsubtitle": ""
+        },
+        {
+          "subtitledropdown": "Community Developtment",
+          "urlsubtitle": ""
+        },
+        {
+          "subtitledropdown": "Emergency Response",
+          "urlsubtitle": ""
+        }
+      ]
+    },
+    {
+      "title": "Projects",
+      "url": "",
+      "dropdown": [
+        {
+          "subtitledropdown": "Current Project",
+          "urlsubtitle": ""
+        },
+        {
+          "subtitledropdown": "Strategy Plan",
+          "urlsubtitle": ""
+        },
+        {
+          "subtitledropdown": "Achievment",
+          "urlsubtitle": ""
+        }
+      ]
+    },
+    {
+      "title": "Learning Platform",
+      "url": "",
+      "dropdown": [
+        {
+          "subtitledropdown": "Food Security Moduls",
+          "urlsubtitle": ""
+        },
+        {
+          "subtitledropdown": "Analitical Task",
+          "urlsubtitle": ""
+        },
+        {
+          "subtitledropdown": "Modul: Planning for Community Developtment",
+          "urlsubtitle": ""
+        },
+        {
+          "subtitledropdown": "Potential Resources",
+          "urlsubtitle": ""
+        }
+      ]
+    },
+    {
+      "title": "News event",
+      "url": ""
+    },
+    {
+      "title": "C-Community",
+      "url": ""
+    },
+    {
+      "title": "Contact",
+      "url": ""
+    }
+  ],
+  "Footerone": [
+    {
+      "PartnerFields": [
+        { "org": "KRKP", "url": "" },
+        { "org": "Hivos", "url": "" },
+        { "org": "Nans-Travel", "url": "" },
+        { "org": "Sheep", "url": "" },
+        { "org": "Asia Foundations", "url": "" }
+      ],
+      "Feedback": [
+        {
+          "Projecttitle": "",
+          "Years": "",
+          "ProjectFields": "",
+          "Contents": ""
+        },
+        {
+          "Projecttitle": "",
+          "Years": "",
+          "ProjectFields": "",
+          "Contents": ""
+        },
+        {
+          "Projecttitle": "",
+          "Years": "",
+          "ProjectFields": "",
+          "Contents": ""
+        },
+        {
+          "Projecttitle": "",
+          "Years": "",
+          "ProjectFields": "",
+          "Contents": ""
+        },
+        {
+          "Projecttitle": "",
+          "Years": "",
+          "ProjectFields": "",
+          "Contents": ""
+        },
+        {
+          "Projecttitle": "",
+          "Years": "",
+          "ProjectFields": "",
+          "Contents": ""
+        },
+        {
+          "Projecttitle": "",
+          "Years": "",
+          "ProjectFields": "",
+          "Contents": ""
+        },
+        {
+          "Projecttitle": "",
+          "Years": "",
+          "ProjectFields": "",
+          "Contents": ""
+        }
+      ]
+    }
+  ],
+  "Footertwo": [
+    { "title": "About" },
+    { "title": "About" },
+    { "title": "About" },
+    { "title": "About" },
+    { "title": "About" },
+    { "title": "About" },
+    { "title": "About" }
+  ],
+  "copyright": "Yaksa Lumbung Kemanusiaan Masyarakat Pedesaan",
+  "Year": "2024"
+}
