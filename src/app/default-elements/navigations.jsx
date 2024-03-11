@@ -1,7 +1,7 @@
 import "./nav-bod-foo.css";
 function Navigations() {
   return (
-    <div className="navbar bg-base-100">
+    <div className="navbar bg-base-100 h-32">
       <div className="navbar-start">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -14,14 +14,14 @@ function Navigations() {
               <path
                 strokeLinecap="round"
                 strokeLinejoin="round"
-                strokeWidth="2"
+                strokeWidth="5"
                 d="M4 6h16M4 12h8m-8 6h16"
               />
             </svg>
           </div>
           <ul
             tabIndex={0}
-            className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
+            className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box">
             <li>
               <a>About Us</a>
               <ul className="p-2">
@@ -103,17 +103,39 @@ function Navigations() {
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">
           <li>
-            <a>Item 1</a>
-          </li>
-          <li>
-            <details>
-              <summary>Parent</summary>
+            <details className="w-40">
+              <summary>About Us</summary>
               <ul className="p-2">
                 <li>
-                  <a>Submenu 1</a>
+                  <a>Our Profiles</a>
                 </li>
                 <li>
-                  <a>Submenu 2</a>
+                  <a>Our Mission and Vision</a>
+                </li>
+                <li>
+                  <a>Principle</a>
+                </li>
+                <li>
+                  <a>The Team Members</a>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details className="w-40">
+              <summary>Programe</summary>
+              <ul className="p-2">
+                <li>
+                  <a>Food Security</a>
+                </li>
+                <li>
+                  <a>Rural Community</a>
+                </li>
+                <li>
+                  <a>Community Developtment</a>
+                </li>
+                <li>
+                  <a>Emergency Response</a>
                 </li>
               </ul>
             </details>
@@ -122,9 +144,6 @@ function Navigations() {
             <a>Item 3</a>
           </li>
         </ul>
-      </div>
-      <div className="navbar-end">
-        <a className="btn">Button</a>
       </div>
     </div>
   );
